@@ -1,0 +1,63 @@
+﻿Kill Order,Team i (ID),Team i (Name),Team i (Abbr),Team j (ID),Team j (Name),Team j (Abbr),Kill,Denoted result,Note,Check,DNW,ENCE,FURY,GEN,GBL,GEX,HERO,KX,KPI,NAVI,NH,PeRo,SSG,TL,TSM_FTX,VP,GAME,Elimination
+1,2,ENCE,ENCE,5,Ghibli Esports,GBL,"(2,5)",1,GBL kills ENCE,OK,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2
+2,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",1,GEX kills GEN,OK,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+3,5,Ghibli Esports,GBL,11,NewHappy,NH,"(5,11)",1,NH kills GBL,OK,4,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,5
+4,5,Ghibli Esports,GBL,11,NewHappy,NH,"(5,11)",1,NH kills GBL,OK,4,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,5
+5,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",0,GEN kills GEX,OK,4,3,4,3,2,4,4,4,4,4,4,4,4,4,4,4,4,6
+6,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",0,GEN kills GEX,OK,4,3,4,3,2,3,4,4,4,4,4,4,4,4,4,4,4,6
+7,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",0,GEN kills GEX,OK,4,3,4,3,2,2,4,4,4,4,4,4,4,4,4,4,4,6
+8,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",0,GEN kills GEX,OK,4,3,4,3,2,1,4,4,4,4,4,4,4,4,4,4,4,6
+9,4,Gen.G,GEN,6,Global Esports Xsset,GEX,"(4,6)",1,GEX kills GEN,OK,4,3,4,3,2,3,4,4,4,4,4,4,4,4,4,4,4,4
+10,2,ENCE,ENCE,5,Ghibli Esports,GBL,"(2,5)",0,ENCE kills GBL,OK,4,3,4,2,2,0,4,4,4,4,4,4,4,4,4,4,4,5
+11,5,Ghibli Esports,GBL,11,NewHappy,NH,"(5,11)",1,NH kills GBL,OK,4,3,4,2,1,0,4,4,4,4,4,4,4,4,4,4,4,5
+12,4,Gen.G,GEN,9,KPI Gaming,KPI,"(4,9)",1,KPI kills GEN,OK,4,3,4,2,0,0,4,4,4,4,4,4,4,4,4,4,4,4
+13,3,FURY,FURY,4,Gen.G,GEN,"(3,4)",0,FURY kills GEN,OK,4,3,4,1,0,0,4,4,4,4,4,4,4,4,4,4,4,4
+14,10,Natus Vincere,NAVI,14,Team Liquid,TL,"(10,14)",1,TL kills NAVI,OK,4,3,4,0,0,0,4,4,4,4,4,4,4,4,4,4,4,10
+15,12,Petrichor Road,PeRo,16,Virtus.Pro,VP,"(12,16)",1,VP kills PeRo,OK,4,3,4,0,0,0,4,4,4,3,4,4,4,4,4,4,4,12
+16,14,Team Liquid,TL,16,Virtus.Pro,VP,"(14,16)",0,TL kills VP,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,4,4,4,4,16
+17,12,Petrichor Road,PeRo,16,Virtus.Pro,VP,"(12,16)",0,PeRo kills VP,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,4,4,3,4,16
+18,12,Petrichor Road,PeRo,16,Virtus.Pro,VP,"(12,16)",0,PeRo kills VP,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,4,4,2,4,16
+19,12,Petrichor Road,PeRo,16,Virtus.Pro,VP,"(12,16)",0,PeRo kills VP,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,4,4,1,4,16
+20,12,Petrichor Road,PeRo,14,Team Liquid,TL,"(12,14)",0,PeRo kills TL,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,4,4,0,4,14
+21,1,Danawa E-sports,DNW,14,Team Liquid,TL,"(1,14)",0,DNW kills TL,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,3,4,0,4,14
+22,12,Petrichor Road,PeRo,15,TSM FTX,TSM_FTX,"(12,15)",1,TSM_FTX kills PeRo,OK,4,3,4,0,0,0,4,4,4,3,4,3,4,2,4,0,4,12
+23,14,Team Liquid,TL,15,TSM FTX,TSM_FTX,"(14,15)",0,TL kills TSM_FTX,OK,4,3,4,0,0,0,4,4,4,3,4,2,4,2,4,0,4,15
+24,13,Spacestation Gaming,SSG,14,Team Liquid,TL,"(13,14)",0,SSG kills TL,OK,4,3,4,0,0,0,4,4,4,3,4,2,4,2,3,0,4,14
+25,12,Petrichor Road,PeRo,16,Virtus.Pro,VP,"(12,16)",1,VP kills PeRo,OK,4,3,4,0,0,0,4,4,4,3,4,4,4,1,3,1,4,12
+26,12,Petrichor Road,PeRo,15,TSM FTX,TSM_FTX,"(12,15)",1,TSM_FTX kills PeRo,OK,4,3,4,0,0,0,4,4,4,3,4,1,4,1,3,0,4,12
+27,7,Heroic,HERO,10,Natus Vincere,NAVI,"(7,10)",0,HERO kills NAVI,OK,4,3,4,0,0,0,4,4,4,3,4,0,4,1,3,0,4,10
+28,14,Team Liquid,TL,15,TSM FTX,TSM_FTX,"(14,15)",1,TSM_FTX kills TL,OK,4,3,4,0,0,0,4,4,4,2,4,0,4,1,3,0,4,14
+29,1,Danawa E-sports,DNW,10,Natus Vincere,NAVI,"(1,10)",0,DNW kills NAVI,OK,4,3,4,0,0,0,4,4,4,2,4,0,4,0,3,0,4,10
+30,3,FURY,FURY,8,Kaixin Esports,KX,"(3,8)",0,FURY kills KX,OK,4,3,4,0,0,0,4,4,4,1,4,0,4,0,3,0,4,8
+31,2,ENCE,ENCE,3,FURY,FURY,"(2,3)",0,ENCE kills FURY,OK,4,3,4,0,0,0,4,3,4,1,4,0,4,0,3,0,4,3
+32,1,Danawa E-sports,DNW,9,KPI Gaming,KPI,"(1,9)",1,KPI kills DNW,OK,4,3,3,0,0,0,4,3,4,1,4,0,4,0,3,0,4,1
+33,3,FURY,FURY,8,Kaixin Esports,KX,"(3,8)",1,KX kills FURY,OK,3,3,3,0,0,0,4,3,4,1,4,0,4,0,3,0,4,3
+34,3,FURY,FURY,8,Kaixin Esports,KX,"(3,8)",1,KX kills FURY,OK,3,3,2,0,0,0,4,3,4,1,4,0,4,0,3,0,4,3
+35,3,FURY,FURY,8,Kaixin Esports,KX,"(3,8)",1,KX kills FURY,OK,3,3,1,0,0,0,4,3,4,1,4,0,4,0,3,0,4,3
+36,11,NewHappy,NH,15,TSM FTX,TSM_FTX,"(11,15)",0,NH kills TSM_FTX,OK,3,3,0,0,0,0,4,3,4,1,4,0,4,0,3,0,4,15
+37,10,Natus Vincere,NAVI,13,Spacestation Gaming,SSG,"(10,13)",0,NAVI kills SSG,OK,3,3,0,0,0,0,4,3,4,1,4,0,4,0,2,0,4,13
+39,13,Spacestation Gaming,SSG,15,TSM FTX,TSM_FTX,"(13,15)",0,SSG kills TSM_FTX,OK,3,3,0,0,0,0,4,3,4,0,4,0,3,0,2,0,4,15
+40,13,Spacestation Gaming,SSG,15,TSM FTX,TSM_FTX,"(13,15)",0,SSG kills TSM_FTX,OK,3,3,0,0,0,0,4,3,4,0,4,0,3,0,1,0,4,15
+41,1,Danawa E-sports,DNW,13,Spacestation Gaming,SSG,"(1,13)",0,DNW kills SSG,OK,3,3,0,0,0,0,4,3,4,0,4,0,3,0,0,0,4,13
+42,11,NewHappy,NH,13,Spacestation Gaming,SSG,"(11,13)",0,NH kills SSG,OK,3,3,0,0,0,0,4,3,4,0,4,0,2,0,0,0,4,13
+43,1,Danawa E-sports,DNW,13,Spacestation Gaming,SSG,"(1,13)",0,DNW kills SSG,OK,3,3,0,0,0,0,4,3,4,0,4,0,1,0,0,0,4,13
+44,7,Heroic,HERO,9,KPI Gaming,KPI,"(7,9)",1,KPI kills HERO,OK,3,3,0,0,0,0,4,3,4,0,4,0,0,0,0,0,4,7
+45,7,Heroic,HERO,9,KPI Gaming,KPI,"(7,9)",1,KPI kills HERO,OK,3,3,0,0,0,0,3,3,4,0,4,0,0,0,0,0,4,7
+46,7,Heroic,HERO,8,Kaixin Esports,KX,"(7,8)",1,KX kills HERO,OK,3,3,0,0,0,0,2,3,4,0,4,0,0,0,0,0,4,7
+47,1,Danawa E-sports,DNW,7,Heroic,HERO,"(1,7)",0,DNW kills HERO,OK,3,3,0,0,0,0,1,3,4,0,4,0,0,0,0,0,4,7
+48,8,Kaixin Esports,KX,9,KPI Gaming,KPI,"(8,9)",0,KX kills KPI,OK,3,3,0,0,0,0,0,3,4,0,4,0,0,0,0,0,4,9
+49,1,Danawa E-sports,DNW,9,KPI Gaming,KPI,"(1,9)",0,DNW kills KPI,OK,3,3,0,0,0,0,0,3,3,0,4,0,0,0,0,0,4,9
+50,1,Danawa E-sports,DNW,9,KPI Gaming,KPI,"(1,9)",1,KPI kills DNW,OK,3,3,0,0,0,0,0,3,2,0,4,0,0,0,0,0,4,1
+51,1,Danawa E-sports,DNW,9,KPI Gaming,KPI,"(1,9)",1,KPI kills DNW,OK,2,3,0,0,0,0,0,3,2,0,4,0,0,0,0,0,4,1
+52,8,Kaixin Esports,KX,11,NewHappy,NH,"(8,11)",0,KX kills NH,OK,1,3,0,0,0,0,0,3,2,0,4,0,0,0,0,0,4,11
+53,9,KPI Gaming,KPI,11,NewHappy,NH,"(9,11)",1,NH kills KPI,OK,1,3,0,0,0,0,0,3,2,0,3,0,0,0,0,0,4,9
+54,1,Danawa E-sports,DNW,9,KPI Gaming,KPI,"(1,9)",0,DNW kills KPI,OK,1,3,0,0,0,0,0,3,1,0,3,0,0,0,0,0,4,9
+55,2,ENCE,ENCE,8,Kaixin Esports,KX,"(2,8)",1,KX kills ENCE,OK,1,3,0,0,0,0,0,3,0,0,3,0,0,0,0,0,4,2
+57,2,ENCE,ENCE,11,NewHappy,NH,"(2,11)",1,NH kills ENCE,OK,0,2,0,0,0,0,0,3,0,0,3,0,0,0,0,0,4,2
+58,2,ENCE,ENCE,11,NewHappy,NH,"(2,11)",1,NH kills ENCE,OK,0,1,0,0,0,0,0,3,0,0,3,0,0,0,0,0,4,2
+59,8,Kaixin Esports,KX,11,NewHappy,NH,"(8,11)",0,KX kills NH,OK,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,4,11
+60,8,Kaixin Esports,KX,11,NewHappy,NH,"(8,11)",0,KX kills NH,OK,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,4,11
+61,8,Kaixin Esports,KX,11,NewHappy,NH,"(8,11)",0,KX kills NH,OK,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,11
+62,#N/A,#N/A,,#N/A,#N/A,,#N/A,, kills ,#N/A,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,
+63,#N/A,#N/A,,#N/A,#N/A,,#N/A,, kills ,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
+64,#N/A,#N/A,,#N/A,#N/A,,#N/A,, kills ,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,
