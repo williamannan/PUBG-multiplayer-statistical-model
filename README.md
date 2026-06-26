@@ -1,2 +1,7 @@
-# PUBG-Statistical-model-for-multi-interaction-game-dynamics
-This contains the code supporting the statistical paper titled "Statistical Model for Multi-player Game Dynamics""
+# PUBG-multiplayer-statistical-model
+This contains the code supporting the statistical paper titled "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games""
+
+## Content of the five (5) function files
+
+### CompHelperFunc: 
+
