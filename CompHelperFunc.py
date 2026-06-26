@@ -101,7 +101,7 @@ def simulate_pairwise_competition(alpha, n0, data_rand_state=None):
     ---------
     Pw_match_data: Pandad DataFrame of sequence of team sizes 
 
-    Refer to the "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS" for details of the model
+    Refer to the "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games." for details of the model
     """
     
     alpha = to_numpy(alpha).ravel()    ## an array of letent strength
@@ -179,7 +179,7 @@ def simulate_elimination_competition(alpha, n0, data_rand_state=None):
     ---------
     Elim_match_data : Pandad DataFrame of sequence of team sizes 
 
-    Refer to the "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS" for details of the model
+    Refer to the "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games." for details of the model
     """
     
     if data_rand_state is not None:
@@ -485,7 +485,7 @@ def Build_team_participating_matrices(matN, team_i, team_j):
       in the various ecounters. 
     - Each row of E_i and E_j are zero except the entry corresponding to team_i and team_j 
       involved in the t^th encounter.
-    - Refer to "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS" for more details
+    - Refer to "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games." for more details
     '''
 
     matN = to_numpy(matN)
@@ -542,7 +542,7 @@ def elim_likelihood_matrices(theta, matN, y):
     - n_exp_beta_i = n_{t-1, i}^beta
     - LogN_i = log(n_{t-1, i}) if n_{t-1,i} > 0 and zero when n_{t-1,i} = 0
 
-    For more details, see appendix of  "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS"
+    For more details, see supplementary of  "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games."
     """
 
     matN = to_numpy(matN)
@@ -589,7 +589,8 @@ def Pairwise_likelihood_matrices(theta, matN, y, team_i, team_j):
     """
     - The function computes the the matrices and vectors needed to formulate 
       the pairwise nodel in compact form.
-    - For detailed explanation, see the  appendix of "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS"
+    - For detailed explanation, see the  supplementary of
+    "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games."
     """
     matN = to_numpy(matN)
     team_i = to_numpy(team_i)
@@ -649,7 +650,8 @@ def comb_nll_and_grad(theta, lam, matN, y, team_i, team_j, omega):
     """ 
     - This function defines the likelihood estimate and its gradient for the combined model.
     - Based on the choice of omega, we can run just the elimination, pairwise or the combined model.
-    - For detail construction of this refer the  appendix of "STATISTICAL MODEL FOR MULTI-PLAYER GAME DYNAMICS"
+    - For detail construction of this refer the  supplementary of 
+    "A Bradley–Terry Framework for Estimating Team Strength in Multi-Team Battle Royale Games."
 
     Inputs
     ----------------
