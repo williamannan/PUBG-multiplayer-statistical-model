@@ -69,7 +69,7 @@ lam0 = 0.0                        ## lambda value for unpenalized model
 marker_spacing = int(np.ceil(Np/20))         ## marker spacing when ploting 
 
 ## lambdas = np.linspace(0,10, Np)           ## used for uniform partition of the lambda domain
-lambdas = np.logspace(-8, np.log10(10), Np)  ## used for logarithmic partition of the lambda domain
+lambdas = np.logspace(-8, np.log10(20), Np)  ## used for logarithmic partition of the lambda domain
 
 real_data = False                  ## selecting either real or simulated match data
 elimination_data= True             ## selecting either elimination or pairwise data
